@@ -10,7 +10,7 @@
               <section class="col-md-12">
                 <ul class="list-unstyled d-flex justify-content-between">
                   <li>
-                    <a href="www.linkedin.com/in/cesar-oswaldo-ramírez-rodríguez-3a49b7247" target="_blank" class="linkedin">
+                    <a href="https://www.linkedin.com/in/cesar-oswaldo-ramírez-rodríguez-3a49b7247" target="_blank" class="linkedin">
                       <i class="fa-brands fa-linkedin fa-2x"></i>
                     </a>
                   </li>
