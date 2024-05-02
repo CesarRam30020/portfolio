@@ -4,6 +4,6 @@ import MenuVue from './components/Menu.vue'
 </script>
 
 <template>
-  <MenuVue />
+  <!-- <MenuVue /> -->
   <RouterView />
 </template>

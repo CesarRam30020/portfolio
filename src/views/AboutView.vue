@@ -1,3 +1,3 @@
 <template>
-  Hola 2
+  ABOUT
 </template>

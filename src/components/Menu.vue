@@ -9,7 +9,7 @@
         <ul class="navbar-nav">
           <li class="nav-item">
             <RouterLink to="/about" class="nav-link active" aria-current="page">
-              About
+              About asdasdasd
             </RouterLink>
           </li>
           <!-- <li class="nav-item">
