@@ -15,12 +15,12 @@
                     </a>
                   </li>
                   <li>
-                    <a href="#" class="github">
+                    <a href="https://github.com/CesarRam30020" target="_blank" class="github">
                       <i class="fa-brands fa-github fa-2x"></i>
                     </a>
                   </li>
                   <li>
-                    <a href="#" class="npm">
+                    <a href="https://www.npmjs.com/~cesar.ram.30020" target="_blank" class="npm">
                       <i class="fa-brands fa-npm fa-2x"></i>
                     </a>
                   </li>
@@ -62,7 +62,7 @@
   text-decoration: none;
 }
 .github:hover {
-  color: #000;
+  color: purple;
 }
 
 .npm {
